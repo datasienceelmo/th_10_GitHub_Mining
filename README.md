@@ -1,4 +1,4 @@
-# th_09_Web-Scraping_mit_BeautifulSoup
+# th_10_GitHub_Mining
 
-Repository für die Bearbeitung des Themas Web-Scraping mit BeautifulSoup
+Repository für die Bearbeitung des Themas GitHub Mining
 
